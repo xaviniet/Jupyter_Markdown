@@ -1,8 +1,11 @@
 
 .ipynb_checkpoints/tasca 1-checkpoint.ipynb
 .ipynb_checkpoints/README-checkpoint.md
-.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
 tasca_5/data/archive/st99_d00.dbf
 tasca_5/data/archive/st99_d00.shp
 tasca_5/data/archive/st99_d00.shx
 tasca_5/data/DelayedFlights.csv
+tasca_1/.ipynb_checkpoints/tasca_1-checkpoint.ipynb
+tasca_3/.ipynb_checkpoints/tasca_3-checkpoint.ipynb
+tasca_3/.ipynb_checkpoints/tasca_3-checkpoint.ipynb
