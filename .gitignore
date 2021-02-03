@@ -1,7 +1,7 @@
 
 .ipynb_checkpoints/tasca 1-checkpoint.ipynb
 .ipynb_checkpoints/README-checkpoint.md
-*/.ipynb_checkpoints/*
+.ipynb_checkpoints
 tasca_5/data/archive/st99_d00.dbf
 tasca_5/data/archive/st99_d00.shp
 tasca_5/data/archive/st99_d00.shx
@@ -22,3 +22,7 @@ data/Unique_carriers.csv
 tasca_4/.ipynb_checkpoints/tasca_4-checkpoint.ipynb
 tasca_5/.ipynb_checkpoints/tasca_5-checkpoint.ipynb
 tasca_6/.ipynb_checkpoints/tasca_6-checkpoint.ipynb
+exemples/
+tasca_5/.ipynb_checkpoints/tasca_5-checkpoint.ipynb
+tasca_6/.ipynb_checkpoints/tasca_6-checkpoint.ipynb
+data/delayed_changed.csv
