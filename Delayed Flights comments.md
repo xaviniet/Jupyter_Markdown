@@ -70,22 +70,24 @@
 
 |Camp|Type|Descripció|
 |-|-|-|
-|carrier_name|object|Nom de la companyia aèria|
 |DepartureTime|datetime|Hora de sortida real|
 |CRSDepartureTime|datetime|Hora de sortida programada|
 |ArrivalTime|datetime|Hora d'arribada real *suma de DepartureTime i ActualElapsedTime*<br>Hauria de coincidir amb ArrTime|
 |CRSArrivalTime|datetime|Hora d'arribada programada *suma de CRSDepartureTime i CRSElapsedTime*<br>Hauria de coincidir amb CRSArrTime|
 |dia_add||Indica que el DepTime era 2400|
-|CRSdia_add||Indica que el DepTime era 2400|
-|no_vol|||
-|ActualElapsedTime_c|||
+|no_vol|int64|indica que el vol no s'ha fet -cancelled o diverted-|
+|ActualElapsedTime_c||ActualElapsedTime però amb els outlliers modificats a la mitjana|
 |CRSElapsedTime_c||CRSElapsedTime pero amb els outliers modificats a la mitjana|
-|endarrerit|||
+|endarrerit|bool|Si el vol ha sofert retràs -> ArrDelay > 0|
 |||**Aeroports**|
 |Name_Origin|object|Nom de l'aeroport d'Origen|
 |Name_Dest|object|Nom de l'aeroport de Destí|
 |Dep_dailyf||Número de vols que surten aquest dia a l'aeroport Origin|
 |Arr_dailyf||Número de vols que arriben aquest dia a l'aeroport Dest|
+|Dep_hourlyf||Número de vols que surten el mateix dia i hora a l'aeroport Origin|
+|Arr_hourlyf||Número de vols que arriben el mateix dia i hora a l'aeroport Dest|
+|TZ_Origin|object|Timezone aeroport Origen|
+|TZ_Dest|object|Timezone aeroport Destí|
 |||**Companyies**|
 |carrier_name|object|Nom de la companyia|
 ||||

@@ -14,13 +14,13 @@ De moment, només una tasca.
 
 
 
-- [ ] [Sprint 4. Tasca 6.  Visualització gràfica d'un dataset]('file://./tasca_6/tasca_6.ipynb')
-- [ ] [Sprint 4. Tasca 6A. Visualització gràfica de Múltiples variables]('file://./tasca_6/tasca_6A.ipynb')
+- [x] [Sprint 4. Tasca 6.  Visualització gràfica d'un dataset]('file://./tasca_6/tasca_6.ipynb')
+- [x] [Sprint 4. Tasca 6A. Visualització gràfica de Múltiples variables]('file://./tasca_6/tasca_6A.ipynb')
 - [ ] [Sprint 5. Log i Regular Expressions]('file://./tasca_7/tasca_7_log_i_re.ipynb')
 - [x] [Sprint 6. Metodes de Mostreig]('file://./WIP/S6_Mètodes_de_mostreig.ipynb')
 - [x] [Sprint 7. Dades, Probabilitats i Estadístiques]('file://./WIP/S7_Dades_Probabilitats_i_Estadístiques.ipynb')
 - [ ] [Sprint 8. Test Hipòtesis]('file://./WIP/S8_Test_Hipòtesis.ipynb')
-- [ ] [Sprint 9. Feature Engineering]('file://./WIP/S9_Feature_Engineering.ipynb')
+- [x] [Sprint 9. Feature Engineering]('file://./WIP/S9_Feature_Engineering.ipynb')
 - [ ] [Sprint 11. Training i Test Sets]('file://./WIP/S11_Training_i_Test_Sets.ipynb')
 - [ ] [Sprint 12. Aprenentatge Supervisat. Regressió]('file://./WIP/S12_Aprenentatge_Supervisat_Regressions.ipynb')
 - [ ] [Sprint 13. Aprenentatge Supervisat. Classificació]('file://./WIP/S13_Aprenentatge_Supervisat_Classificació.ipynb')
