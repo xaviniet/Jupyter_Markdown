@@ -7,6 +7,8 @@
     - [ ] Busquem fonts addicionals de dades pels aeroports:
         - [Aeroports](http://stat-computing.org/dataexpo/2009/airports.csv)
         - També descarreguem de [https://openflights.org/data.html](https://openflights.org/data.html) el *airports.dat* que conté les zones horàries dels aeroports
+        
+       
 
 - [Exercici 2](#Exercici2)  
   Fes un informe complet del data set:.
