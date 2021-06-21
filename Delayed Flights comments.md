@@ -94,6 +94,45 @@
 |carrier_name|object|Nom de la companyia|
 ||||
 
+### Camps afegits a l'Sprint 11
+
+|Camp|Type|Descripció|
+|-|-|-|
+|velocity|float64|Velocitat del vol m/h|
+|CRSvelocity|float64|Velocitat estimada del vol m/h|
+|DepartureTime_hour_sin|float64|sin de l'hora de Sortida|
+|DepartureTime_hour_cos|float64|cos de l'hora de Sortida|
+|DepartureTime_day_sin|float64|sin del dia de Sortida|
+|DepartureTime_day_cos|float64|cos del dia de Sortida|
+|DepartureTime_dayofweek_sin|float64|sin del dia de la setmana|
+|DepartureTime_dayofweek_cos|float64||
+|DepartureTime_month_sin|float64||
+|DepartureTime_month_cos|float64||
+|CRSDepartureTime_hour_sin|float64||
+|CRSDepartureTime_hour_cos|float64||
+|CRSDepartureTime_day_sin|float64||
+|CRSDepartureTime_day_cos|float64||
+|CRSDepartureTime_dayofweek_sin|float64||
+|CRSDepartureTime_dayofweek_cos|float64||
+|CRSDepartureTime_month_sin|float64||
+|CRSDepartureTime_month_cos|float64||
+|ArrivalTime_hour_sin|float64||
+|ArrivalTime_hour_cos|float64||
+|ArrivalTime_day_sin|float64||
+|ArrivalTime_day_cos|float64||
+|ArrivalTime_dayofweek_sin|float64||
+|ArrivalTime_dayofweek_cos|float64||
+|ArrivalTime_month_sin|float64||
+|ArrivalTime_month_cos|float64||
+|CRSArrivalTime_hour_sin|float64||
+|CRSArrivalTime_hour_cos|float64||
+|CRSArrivalTime_day_sin|float64||
+|CRSArrivalTime_day_cos|float64||
+|CRSArrivalTime_dayofweek_sin|float64||
+|CRSArrivalTime_dayofweek_cos|float64||
+|CRSArrivalTime_month_sin|float64||
+|CRSArrivalTime_month_co|float64||
+
 
 
 > Considerar buscar el Timezone dels aeroports per a poder ajustar les hores d'arribada
