@@ -21,7 +21,7 @@ De moment, només una tasca.
 |[ ]|[ ]|Sprint 8|[Test Hipòtesis]('file://./WIP/S8_Test_Hipòtesis.ipynb')|
 |[x]|[x]|Sprint 9|[Feature Engineering]('file://./WIP/S9_Feature_Engineering.ipynb')|
 |[x]|[ ]|Sprint 11|[ Training i Test Sets]('file://./WIP/S11_Training_i_Test_Sets.ipynb')|
-|[ ]|[ ]|Sprint 12|[ Aprenentatge Supervisat. Regressió]('file://./WIP/S12_Aprenentatge_Supervisat_Regressions.ipynb')|
+|[x]|[ ]|Sprint 12|[ Aprenentatge Supervisat. Regressió]('file://./WIP/S12_Aprenentatge_Supervisat_Regressions.ipynb')|
 |[ ]|[ ]|Sprint 13|[ Aprenentatge Supervisat. Classificació]('file://./WIP/S13_Aprenentatge_Supervisat_Classificació.ipynb')|
 |[ ]|[ ]|Sprint 15|[ Aprenentatge No Supervisat. Agrupació]('file://./WIP/S15_Aprenentatge_No_Supervisat_Agrupació.ipynb')|
 |[ ]|[ ]|Sprint 16|[ Pipelines, Grid Search, Text Mining]('file://./WIP/S16_Pipelines_Grid_Search_i_Text_Mining.ipynb')|
