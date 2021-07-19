@@ -24,9 +24,9 @@ De moment, només una tasca.
 |[x]|[ ]|Sprint 12|[ Aprenentatge Supervisat. Regressió]('file://./WIP/S12_Aprenentatge_Supervisat_Regressions.ipynb')|
 |[ ]|[ ]|Sprint 13|[ Aprenentatge Supervisat. Classificació]('file://./WIP/S13_Aprenentatge_Supervisat_Classificació.ipynb')|
 |[ ]|[ ]|Sprint 15|[ Aprenentatge No Supervisat. Agrupació]('file://./WIP/S15_Aprenentatge_No_Supervisat_Agrupació.ipynb')|
-|[ ]|[ ]|Sprint 16|[ Pipelines, Grid Search, Text Mining]('file://./WIP/S16_Pipelines_Grid_Search_i_Text_Mining.ipynb')|
+|[x]|[ ]|Sprint 16|[ Pipelines, Grid Search, Text Mining]('file://./WIP/S16_Pipelines_Grid_Search_i_Text_Mining.ipynb')|
 |[x]|[ ]|Sprint 16|[ Web Scraping]('file://./WIP/S16_Web_Scraping.ipynb')|
 |[x]|[ ]|Sprint 17|[ BBDD Relacionals]('file://./WIP/S17_Bases_de_Dades_Relacionals.ipynb')|
 |[x]|[ ]|Sprint 17|[ BBDD Relacionals MySQL]('file://./WIP/S17_Base_de_Dades_MySQL.ipynb')|
-|[ ]|[ ]|Sprint 18|[ BBDD NoSQL]('file://./WIP/S18_Base_de_Dades_NoSQL.ipynb')|
+|[x]|[ ]|Sprint 18|[ BBDD NoSQL]('file://./WIP/S18_Base_de_Dades_NoSQL.ipynb')|
 |[ ]|[ ]|Sprint 19|[ Visualització interactiva. ElasticSearch]('file://./WIP/S19_Visualització_interactiva_amb_ElasticSearch_Stack.ipynb')
