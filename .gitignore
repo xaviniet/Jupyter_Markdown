@@ -45,3 +45,7 @@ tasca_5/.ipynb_checkpoints/tasca_5-checkpoint.ipynb
 tasca_6/.ipynb_checkpoints/tasca_6-checkpoint.ipynb
 udacity-dsnd-1-write-ds-blog/
 .DS_Store
+*.cfg
+data/S11-CleanDelayedFlights.pickle
+mysql/delayedflights.mwb.bak
+mysql/delayedflights.mwb.bak

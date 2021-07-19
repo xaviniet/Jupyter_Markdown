@@ -15,7 +15,7 @@ De moment, només una tasca.
 |[x]|[x]|Sprint 3|[Tasca 5. Exploració de les dades]('file://./tasca_5/tasca_5.ipynb')|
 |[x]|[x]|Sprint 4|[Tasca 6.  Visualització gràfica d'un dataset]('file://./tasca_6/tasca_6.ipynb')|
 |[x]|[x]|Sprint 4|[Tasca 6A. Visualització gràfica de Múltiples variables]('file://./tasca_6/tasca_6A.ipynb')|
-|[ ]|[ ]|Sprint 5|[Log i Regular Expressions]('file://./tasca_7/tasca_7_log_i_re.ipynb')|
+|[x]|[ ]|Sprint 5|[Log i Regular Expressions]('file://./tasca_7/tasca_7_log_i_re.ipynb')|
 |[x]|[x]|Sprint 6|[Metodes de Mostreig]('file://./WIP/S6_Mètodes_de_mostreig.ipynb')|
 |[x]|[x]|Sprint 7|[Dades, Probabilitats i Estadístiques]('file://./WIP/S7_Dades_Probabilitats_i_Estadístiques.ipynb')|
 |[ ]|[ ]|Sprint 8|[Test Hipòtesis]('file://./WIP/S8_Test_Hipòtesis.ipynb')|
